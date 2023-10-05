@@ -8,5 +8,5 @@ If you want to install it, just install Visual Studio 22, get in the project you
 open de .sln file.
 
 # Some images from Console-Graphics-CPP
-![img1]()
-![img2]()
+![img1](https://github.com/ih8sun/Console-Graphics-CPP/blob/eb9954b50d311c50767ead98fa6f4f3d5ea0f28e/img/Principal1.png)
+![img2](https://github.com/ih8sun/Console-Graphics-CPP/blob/eb9954b50d311c50767ead98fa6f4f3d5ea0f28e/img/Principal2.png)
