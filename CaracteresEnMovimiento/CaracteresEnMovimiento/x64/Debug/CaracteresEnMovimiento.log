@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CaracteresEnMovimiento.cpp
+D:\Trabajos de Visual UPC\CaracteresEnMovimiento\CaracteresEnMovimiento\CaracteresEnMovimiento.cpp(33,13): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+D:\Trabajos de Visual UPC\CaracteresEnMovimiento\CaracteresEnMovimiento\CaracteresEnMovimiento.cpp(35,26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Trabajos de Visual UPC\CaracteresEnMovimiento\CaracteresEnMovimiento\CaracteresEnMovimiento.cpp(43,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  CaracteresEnMovimiento.vcxproj -> D:\Trabajos de Visual UPC\CaracteresEnMovimiento\x64\Debug\CaracteresEnMovimiento.exe

@@ -1,0 +1,5 @@
+﻿  LazadorPelotasX21.cpp
+F:\UPC\_2021-1\Programacion II\Ejemplos\LazadorPelotasX21\LazadorPelotasX21\LazadorPelotasX21.cpp(25,26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+F:\UPC\_2021-1\Programacion II\Ejemplos\LazadorPelotasX21\LazadorPelotasX21\LazadorPelotasX21.cpp(39,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  LazadorPelotasX21.vcxproj -> F:\UPC\_2021-1\Programacion II\Ejemplos\LazadorPelotasX21\Debug\LazadorPelotasX21.exe

@@ -1,0 +1,3 @@
+C:\Users\el pepe\Desktop\LazadorPelotasX21 - copia\LazadorPelotasX21\x64\Debug\LazadorPelotasX21.vcxproj.AssemblyReference.cache
+D:\Trabajos de Visual UPC\LazadorPelotasX21 - copia\LazadorPelotasX21\x64\Debug\LazadorPelotasX21.vcxproj.AssemblyReference.cache
+D:\Trabajos de Visual UPC\LazadorPelotasX21 - copia\LazadorPelotasX21\x64\Debug\LazadorPelotasX21.vcxproj.SuggestedBindingRedirects.cache

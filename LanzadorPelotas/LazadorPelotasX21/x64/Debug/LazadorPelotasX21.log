@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  LazadorPelotasX21.cpp
+D:\Trabajos de Visual UPC\LazadorPelotasX21 - copia\LazadorPelotasX21\LazadorPelotasX21.cpp(25,26): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\Trabajos de Visual UPC\LazadorPelotasX21 - copia\LazadorPelotasX21\LazadorPelotasX21.cpp(39,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  Generando código...
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  LazadorPelotasX21.vcxproj -> D:\Trabajos de Visual UPC\LazadorPelotasX21 - copia\x64\Debug\LazadorPelotasX21.exe

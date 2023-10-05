@@ -1,0 +1,3 @@
+C:\Users\el pepe\Desktop\CaracteresEnMovimiento\CaracteresEnMovimiento\x64\Debug\CaracteresEnMovimiento.vcxproj.AssemblyReference.cache
+D:\Trabajos de Visual UPC\CaracteresEnMovimiento\CaracteresEnMovimiento\x64\Debug\CaracteresEnMovimiento.vcxproj.AssemblyReference.cache
+D:\Trabajos de Visual UPC\CaracteresEnMovimiento\CaracteresEnMovimiento\x64\Debug\CaracteresEnMovimiento.vcxproj.SuggestedBindingRedirects.cache
